@@ -1,0 +1,19 @@
+{
+  "name": "mimatsuya_web_demo",
+  "version": "1.0.0",
+  "description": "styleDemo: 样式demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansongwu/mimatsuya_web_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansongwu/mimatsuya_web_demo/issues"
+  },
+  "homepage": "https://github.com/sansongwu/mimatsuya_web_demo#readme"
+}
